@@ -1,0 +1,5 @@
+com\testing\assessment\sofware\ConfigLoad.class
+com\testing\assessment\sofware\runner\TestRunner.class
+com\testing\assessment\sofware\steps\CheckOutSteps.class
+com\testing\assessment\sofware\datasets\RunConfiguration.class
+com\testing\assessment\sofware\Configuration.class
