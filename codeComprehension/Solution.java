@@ -15,6 +15,7 @@ public class Solution {
         int max = arr[0];
         int minSum = sum - min;
         int maxSum = sum - max;
+
         System.out.println(minSum + " " + maxSum);
     }
 
